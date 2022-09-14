@@ -1,6 +1,6 @@
 # 안드로이드 컴포즈 예제 코드
 
-### 최종 결과물
+## 최종 결과물
 
 **라이트 모드**
 
@@ -9,7 +9,7 @@
 **다크 모드**
 
 <img width="274" alt="image" src="https://user-images.githubusercontent.com/42116216/190127768-bdfcd40a-94a8-40a5-9947-518d96b6eed3.png">
-
+---
 > Jetpack Compose는 네이티브 Android UI를 빌드하기 위한 최신 도구 키트입니다.Jetpack Compose는 더 적은 수의 코드, 가역한 도구, 직관적인 Koltin API로 Android에서의 UI개발을 간소화하고 가속화합니다. 
 
 Jetpack Compose는 구성 가능한 함수를 중심으로 빌드되었습니다. 
@@ -20,7 +20,6 @@ Jetpack Compose는 구성 가능한 함수를 중심으로 빌드되었습니다
 
 ### 레이아웃
 UI 요소는 계층적이며 다른 요소에 포함된 요소가 있습니다. Compose에서는 다른 구성 가능한 함수로부터 구성 가능한 함수를 호출하여 UI계층 구조를 빌드합니다.
-
 
 #### 여러 텍스트 추가
 MessageCard 함수를 통해 텍스트를 입력받고 출력합니다.
