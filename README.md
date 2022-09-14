@@ -1,5 +1,15 @@
 # 안드로이드 컴포즈 예제 코드
 
+### 최종 결과물
+
+**라이트 모드**
+
+<img width="329" alt="image" src="https://user-images.githubusercontent.com/42116216/190127645-4cccef62-37fb-43e9-9069-af5fd578008c.png">
+
+**다크 모드**
+
+<img width="274" alt="image" src="https://user-images.githubusercontent.com/42116216/190127768-bdfcd40a-94a8-40a5-9947-518d96b6eed3.png">
+
 > Jetpack Compose는 네이티브 Android UI를 빌드하기 위한 최신 도구 키트입니다.Jetpack Compose는 더 적은 수의 코드, 가역한 도구, 직관적인 Koltin API로 Android에서의 UI개발을 간소화하고 가속화합니다. 
 
 Jetpack Compose는 구성 가능한 함수를 중심으로 빌드되었습니다. 
@@ -349,15 +359,12 @@ fun PreviewConversation() {
 ~~~
 
 **미리보기**
+
 ![](https://velog.velcdn.com/images/oyunseong/post/2cf8eb07-5c73-44c6-bc52-9693a50569cd/image.png)
 
 **실제 실행**
+
 ![](https://velog.velcdn.com/images/oyunseong/post/82caf412-35bd-4774-a146-7dabfd66ddda/image.png)
 
 
 참고 자료 : https://developer.android.com/jetpack/compose?hl=ko
-
-<img width="329" alt="image" src="https://user-images.githubusercontent.com/42116216/190127645-4cccef62-37fb-43e9-9069-af5fd578008c.png">
-<img width="274" alt="image" src="https://user-images.githubusercontent.com/42116216/190127768-bdfcd40a-94a8-40a5-9947-518d96b6eed3.png">
-
-
