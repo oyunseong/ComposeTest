@@ -107,3 +107,11 @@ fun PreviewConversation() {
         Conversation(SampleData.conversationSample)
     }
 }
+
+@Preview
+@Composable
+fun NextButton(){
+    Box() {
+        
+    }
+}
